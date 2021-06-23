@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### Current Projects
+
+https://github.com/anton-tchekov/nano-c
+https://github.com/anton-tchekov/raspi-os
+
+
+
 <!--
 **anton-tchekov/anton-tchekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
