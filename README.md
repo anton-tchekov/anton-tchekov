@@ -21,4 +21,33 @@ https://github.com/anton-tchekov/php-filemanager
 #### Games
 
 
+
 #### Linux
+
+
+#### Hardware
+
+
+#### Android
+
+_Coming soon_
+
+#### Competitions
+
+
+#### Gesture Recognition
+
+
+
+#### Retro Computing
+
+
+#### AVR Code/Libraries
+
+
+##### HID Keyboard
+
+
+#### Misc
+
+
