@@ -74,24 +74,18 @@ PHP File Manager
 
 #### Games
 
-_My 3D Game is (hopefully) going to be released soon_
-
+_My 3D Game is (hopefully) going to be released soon_\
 _You can download development versions from my [website](https://antoninformatik.111mb.de/gamedev/)_
 
-
-[tetris](https://github.com/anton-tchekov/tetris)
-
+[tetris](https://github.com/anton-tchekov/tetris)\
 Tetris Game written in C with SDL2
 
-
-[snake](https://github.com/anton-tchekov/snake)
-
+[snake](https://github.com/anton-tchekov/snake)\
 Snake Game written in C with SDL2
 
 #### Linux
 
-[scripts](https://github.com/anton-tchekov/scripts)
-
+[scripts](https://github.com/anton-tchekov/scripts)\
 Useful scripts for linux
 
 #### Android
@@ -100,8 +94,7 @@ _Coming soon_
 
 #### Competitions
 
-[vex-v5](https://github.com/anton-tchekov/vex-v5)
-
+[vex-v5](https://github.com/anton-tchekov/vex-v5)\
 VEX V5 Robotics Competition
 
 
