@@ -66,7 +66,7 @@ Snake Game written in C with SDL2
 [scripts](https://github.com/anton-tchekov/scripts)\
 Some scripts for linux
 
-#### Android
+#### Mobile Development (Android/IOS)
 
 _Coming soon_
 
