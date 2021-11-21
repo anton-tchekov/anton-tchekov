@@ -8,7 +8,7 @@ https://anton-tchekov.github.io (Redirects to my other website for now)
 #### Important Projects (Work in Progress)
 
 [lambda-engine](https://github.com/anton-tchekov/lambda-engine)\
-Proprietary OpenGL Game Engine
+OpenGL Game Engine
 
 [nano-c](https://github.com/anton-tchekov/nano-c)\
 Interpreter for a language similar to C
