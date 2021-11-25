@@ -5,7 +5,7 @@
 https://antoninformatik.111mb.de \
 https://anton-tchekov.github.io (Redirects to my other website for now)
 
-#### Important Projects (Work in Progress)
+#### Important Projects
 
 [lambda-engine](https://github.com/anton-tchekov/lambda-engine)\
 OpenGL Game Engine
@@ -52,8 +52,11 @@ Online Todo Planner/Calendar
 
 #### Games
 
-_My 3D Game is (hopefully) going to be released soon_\
-_You can download development versions from my [website](https://antoninformatik.111mb.de/gamedev/)_
+[Protocol 7](https://antoninformatik.111mb.de/protocol7/)
+New!!!
+
+[Game Dev](https://antoninformatik.111mb.de/gamedev/)
+3D Game Engine Development and School Game
 
 [tetris](https://github.com/anton-tchekov/tetris)\
 Tetris Game written in C with SDL2
