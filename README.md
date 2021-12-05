@@ -3,7 +3,6 @@
 #### Website
 
 https://antoninformatik.111mb.de \
-https://anton-tchekov.github.io (Redirects to my other website for now)
 
 #### Important Projects
 
