@@ -2,7 +2,7 @@
 
 #### Website
 
-https://antoninformatik.111mb.de \
+https://antoninformatik.net
 
 #### Important Projects
 
