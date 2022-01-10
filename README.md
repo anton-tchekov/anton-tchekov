@@ -51,13 +51,13 @@ Online Todo Planner/Calendar
 
 #### Games
 
-[Protocol 7](https://antoninformatik.111mb.de/protocol7/)\
+[Protocol 7](https://antoninformatik.net/protocol7/)\
 New!!!
 
 [Game Assets](https://github.com/anton-tchekov/game-assets)\
 (Modular System)
 
-[Game Dev](https://antoninformatik.111mb.de/gamedev/)\
+[Game Dev](https://antoninformatik.net/gamedev/)\
 3D Game Engine Development and School Game
 
 [tetris](https://github.com/anton-tchekov/tetris)\
