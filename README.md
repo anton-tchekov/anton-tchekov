@@ -26,14 +26,14 @@ Music player (.wav files from SD card)
 [avr-stopwatch](https://github.com/anton-tchekov/avr-stopwatch)\
 AVR Stopwatch (with Seven-Segment-Display)
 
+[led-watch](https://github.com/anton-tchekov/led-watch)\
+Wristwatch with 5x5 LEDs
+
 [led-board](https://github.com/anton-tchekov/led-board)\
 16x16 RGB-LED Board with Games (Tetris, Snake), IR Remote and WiFi
 
 [longan-nano](https://github.com/anton-tchekov/longan-nano)\
 Sipeed Longan Nano Projects (RISC-V GD32VF103)
-
-[anime-glasses](https://github.com/anton-tchekov/anime-glasses)\
-Glasses with LED Light
 
 #### Web Development
 
