@@ -12,9 +12,6 @@ OpenGL Game Engine
 [nano-c](https://github.com/anton-tchekov/nano-c)\
 Interpreter for a language similar to C
 
-[raspi-os](https://github.com/anton-tchekov/raspi-os)\
-Raspberry PI OS from Scratch
-
 #### Hardware
 
 [avr-calculator](https://github.com/anton-tchekov/avr-calculator)\
