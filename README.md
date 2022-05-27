@@ -43,13 +43,9 @@ Two web chat applications (one uses a database, the other a CSV file) written in
 [php-filemanager](https://github.com/anton-tchekov/php-filemanager)\
 PHP File Manager
 
-[todo-planner](https://github.com/anton-tchekov/todo-planner) _(Unfinished)_\
-Online Todo Planner/Calendar
-
 #### Games
 
 [Protocol 7](https://antoninformatik.net/protocol7/)\
-New!!!
 
 [Game Assets](https://github.com/anton-tchekov/game-assets)\
 (Modular System)
@@ -68,17 +64,16 @@ Snake Game written in C with SDL2
 [scripts](https://github.com/anton-tchekov/scripts)\
 Some scripts for linux
 
-#### Mobile Development (Android/IOS)
-
-_Coming soon_
-
 #### Competitions
 
 [vex-v5](https://github.com/anton-tchekov/vex-v5)\
 VEX V5 Robotics Competition
 
-[bwinf](https://github.com/anton-tchekov/bwinf)\
+[bwinf39](https://github.com/anton-tchekov/bwinf39)\
 39. Bundeswettbewerb Informatik
+
+[bwinf40](https://github.com/anton-tchekov/bwinf40)\
+40. Bundeswettbewerb Informatik
 
 #### Retro Computing
 
