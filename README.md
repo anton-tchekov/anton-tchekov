@@ -45,7 +45,7 @@ PHP File Manager
 
 #### Games
 
-[Protocol 7](https://antoninformatik.net/protocol7/)\
+[Protocol 7](https://antoninformatik.net/protocol7/)
 
 [Game Assets](https://github.com/anton-tchekov/game-assets)\
 (Modular System)
