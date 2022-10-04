@@ -1,9 +1,3 @@
-### Overview
-
-#### Website
-
-https://antoninformatik.net
-
 #### Important Projects
 
 [lambda-engine](https://github.com/anton-tchekov/lambda-engine)\
